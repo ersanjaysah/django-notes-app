@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : ssah6694/my-notes-app:latest
+     image : ssah6694/my-node-app:latest
      ports :
          - "8000:8000"
